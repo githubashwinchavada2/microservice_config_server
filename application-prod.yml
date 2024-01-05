@@ -2,7 +2,7 @@
 spring:
 # Application name configuration (this name will be displayed in microservice's eureka server as a service)
   application:
-    name: CONFIG-DEFAULT
+    name: CONFIG-PROD
     
 # Configuration for microservice service registry (eureka server)
 eureka:
